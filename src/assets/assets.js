@@ -4,7 +4,7 @@ import order_icon from './order_icon.png'
 import upload_area from './upload_area.png'
 import parcel_icon from './parcel_icon.svg'
 
-export const url = "https://forever-backend-qadk.onrender.com"
+export const url = "https://forever-backend-9a0y.onrender.com"
 
 
 export const assets = {
